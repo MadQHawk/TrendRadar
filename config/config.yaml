@@ -81,6 +81,8 @@ platforms:
     name: "今日头条"
   - id: "thepaper"
     name: "澎湃新闻"
+  - id: "zaobao"
+    name: "联合早报"
   - id: "bilibili-hot-search"
     name: "bilibili 热搜"
   - id: "tieba"
